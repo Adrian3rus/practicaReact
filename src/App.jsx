@@ -26,6 +26,7 @@ function App() {
       <Texto/>
       <hr />
       <NombreEnTiempoReal></NombreEnTiempoReal>
+      <hr />
     </div>
   );
 }
