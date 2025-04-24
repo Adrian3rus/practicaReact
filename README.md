@@ -18,4 +18,4 @@ instalar
 
 npm install sweetaler2
 
-npm react-bootstrap bootstrap
+npm install react-bootstrap bootstrap
