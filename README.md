@@ -17,4 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 instalar 
 
 npm install sweetaler2
+
 npm react-bootstrap bootstrap
